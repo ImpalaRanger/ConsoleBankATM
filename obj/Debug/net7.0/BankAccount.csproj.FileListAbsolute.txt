@@ -1,0 +1,15 @@
+C:\Users\veltk\Documents\DevProjects\BankAccount\obj\Debug\net7.0\BankAccount.csproj.AssemblyReference.cache
+C:\Users\veltk\Documents\DevProjects\BankAccount\obj\Debug\net7.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veltk\Documents\DevProjects\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\veltk\Documents\DevProjects\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfo.cs
+C:\Users\veltk\Documents\DevProjects\BankAccount\obj\Debug\net7.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\veltk\Documents\DevProjects\BankAccount\bin\Debug\net7.0\BankAccount.exe
+C:\Users\veltk\Documents\DevProjects\BankAccount\bin\Debug\net7.0\BankAccount.deps.json
+C:\Users\veltk\Documents\DevProjects\BankAccount\bin\Debug\net7.0\BankAccount.runtimeconfig.json
+C:\Users\veltk\Documents\DevProjects\BankAccount\bin\Debug\net7.0\BankAccount.dll
+C:\Users\veltk\Documents\DevProjects\BankAccount\bin\Debug\net7.0\BankAccount.pdb
+C:\Users\veltk\Documents\DevProjects\BankAccount\obj\Debug\net7.0\BankAccount.dll
+C:\Users\veltk\Documents\DevProjects\BankAccount\obj\Debug\net7.0\refint\BankAccount.dll
+C:\Users\veltk\Documents\DevProjects\BankAccount\obj\Debug\net7.0\BankAccount.pdb
+C:\Users\veltk\Documents\DevProjects\BankAccount\obj\Debug\net7.0\BankAccount.genruntimeconfig.cache
+C:\Users\veltk\Documents\DevProjects\BankAccount\obj\Debug\net7.0\ref\BankAccount.dll
